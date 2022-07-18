@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Kotlin (Android) & C# (Forms & Xamarin (mobile)) - Would love input to what can get me a career opportunity even if it is as intern)
 - 💞️ I’m looking to collaborate on ... Windows form app (even console, doesnt need to be visable) to automatically print labels (the hard part) 
 - from instructions from an android app (I know what I want, I am still getting to find it on StackOverflow)
-- 📫 How to reach me ... email Lavtechinternational@gmail.com
+- 📫 How to reach me ... emailto: LeAnnAlexandraViolet@gmail.com || Lavtechinternational@gmail.com
 
 
 
